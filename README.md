@@ -4,11 +4,11 @@ NeuroStartUp - динамически развивающийся стартап,
 
 ## Начало работы
 
-Install Git - done
-Install Browser - done
-Git init - done 
-Git add remote - done
-Git push - done
+* Install Git - done
+* Install Browser - done
+* Git init - done 
+* Git add remote - done
+* Git push - done
 
 ## Установка и запуск
 Пошаговый процесс установки и запуска
